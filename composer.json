@@ -1,0 +1,17 @@
+{
+    "name": "dis/symfony-soft-delete-example",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dis\\SymfonySoftDeleteExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "disstudio"
+        }
+    ]
+}
